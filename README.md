@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
 	<a href="https://github.com/csian98/cloud-iot-hub">
-		<img src="images/dashboard.png" alt="Logo" width="150" height="150">
+		<img src="images/dashboard.png" alt="Logo" width="500" height="500">
 	</a>
 	<h3 align="center">Cloud IoT Hub</h3>	
 	<br/>
