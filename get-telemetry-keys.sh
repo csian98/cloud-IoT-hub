@@ -1,0 +1,1 @@
+curl -v -X GET http://3.17.75.87:8080/api/plugins/telemetry/DEVICE/dbf9f2b0-140c-11f1-a2e7-e51070bdb407/keys/timeseries --header "Content-Type:application/json" --header "X-Authorization: d6k4mCcGMbcvFDzkGEal"

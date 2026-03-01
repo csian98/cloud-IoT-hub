@@ -12,6 +12,10 @@
 
 <br/>
 <div align="center">
+	<a href="https://github.com/csian98/cloud-iot-hub">
+		<img src="images/dashboard.png" alt="Logo" width="150" height="150">
+	</a>
+
 	<h3 align="center">Cloud IoT Hub</h3>	
 	<br/>
 	<a href="https://github.com/csian98/cloud-IoT-hub">
@@ -25,14 +29,28 @@
 	</p>
 </div>
 
-## Installation
-``` sh
 
+
+## Installation
+
+### Java 17
+``` sh
+sudo apt-get update && sudo apt-get install openjdk-17-jdk
+sudo update-alternatives --config java
 ```
 
-## Execution
+### PostgreSQL
+``` sh
+sudo apt=get install -y postgresql-common
+sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+sudo systemctl restart postgresql
+```
 
-
+### ThingsBoard
+``` sh
+wget https://github.com/thingsboard/thingsboard/releases/download/v4.3.0.1/thingsboard-4.3.0.1.deb
+sudo dpkg -i thingsboard-4.3.0.1.deb
+```
 
 ## 🔐 License
 
