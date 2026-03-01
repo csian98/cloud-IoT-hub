@@ -15,20 +15,19 @@
 	<a href="https://github.com/csian98/cloud-iot-hub">
 		<img src="images/dashboard.png" alt="Logo" width="150" height="150">
 	</a>
-
 	<h3 align="center">Cloud IoT Hub</h3>	
 	<br/>
 	<a href="https://github.com/csian98/cloud-IoT-hub">
 		<strong>Explore the docs »</strong>
 	</a>
-	<br/>
-	<br/>
-	<a href="https://github.com/csian98/cloud-IoT-hub/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-	·
-	<a href="https://github.com/csian98/cloud-IoT-hub/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-	</p>
+<br/>
+<br/>
+<a href="https://github.com/csian98/cloud-IoT-hub/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+·
+<a href="https://github.com/csian98/cloud-IoT-hub/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+</p>
 </div>
-
+	
 
 
 ## Installation
